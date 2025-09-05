@@ -18,4 +18,4 @@ contract SimpleCalculator {
     function divide(uint256 _a, uint256 _b) public pure returns ( uint256 ) {
         return _a / _b;
     }
-}
+} //Contract Address 0xD71475A3aE0c50f96c935096f42421ecC482bFD7
